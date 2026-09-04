@@ -174,7 +174,7 @@ suppressMessages(
 )
 ```
 
-[Return to top.](https://maxstca.github.io/cgada/CGA-0.13.1.html)
+[Return to top.](https://maxstca.github.io/cgada_old/CGA-0.13.1.html)
 
 ## Trinket Data
 
@@ -247,7 +247,7 @@ suppressMessages(
 )
 ```
 
-[Return to top.](https://maxstca.github.io/cgada/CGA-0.13.1.html)
+[Return to top.](https://maxstca.github.io/cgada_old/CGA-0.13.1.html)
 
 ## Map Data
 
@@ -326,7 +326,7 @@ suppressMessages(
 )
 ```
 
-[Return to top.](https://maxstca.github.io/cgada/CGA-0.13.1.html)
+[Return to top.](https://maxstca.github.io/cgada_old/CGA-0.13.1.html)
 
 ## Misc.
 
@@ -407,7 +407,7 @@ suppressMessages(
 )
 ```
 
-[Return to top.](https://maxstca.github.io/cgada/CGA-0.13.1.html)
+[Return to top.](https://maxstca.github.io/cgada_old/CGA-0.13.1.html)
 
 ## Some Fun Tidbits
 
@@ -443,6 +443,6 @@ knitr::kable(cgada |>
   slice_head(n = 10))
 ```
 
-[Return to top.](https://maxstca.github.io/cgada/CGA-0.13.1.html)
+[Return to top.](https://maxstca.github.io/cgada_old/CGA-0.13.1.html)
 
-## [Click here to return to the main page.](https://maxstca.github.io/cgada/)
+## [Click here to return to the main page.](https://maxstca.github.io/cgada_old/)
